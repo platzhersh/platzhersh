@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm currently working as a development team lead at [Cistec AG](https://www.cistec.com/).
+
+You might have stumbled onto my profile through my [Pacman Canvas](https://pacman.platzh1rsch.ch/).
+
+Technically I'm playing around with a lot of different things atm, especially looking into architecture things, like federated graphs.
+Maybe you'll read some more about this on my [Medium](https://medium.com/@platzh1rsch) someday 🤞.
+
 <!--
 **platzhersh/platzhersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
