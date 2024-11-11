@@ -7,6 +7,9 @@ You might have stumbled onto my profile through my [Pacman Canvas](https://pacma
 Technically I'm playing around with a lot of different things atm, especially looking into architecture things, like federated graphs.
 Maybe you'll read some more about this on my [Medium](https://medium.com/@platzh1rsch) someday 🤞.
 
+If you found any of my stuff useful and feel generous, feel free to <a href="https://www.buymeacoffee.com/platzh1rsch" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>. (I do like coffee ☕️)
+
+
 <!--
 **platzhersh/platzhersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
