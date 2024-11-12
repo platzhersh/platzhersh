@@ -12,6 +12,9 @@ If you found any of my stuff useful and feel generous, feel free to send some co
 <a href="https://www.buymeacoffee.com/platzh1rsch"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=platzh1rsch&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
+<a href="https://stackexchange.com/users/476908"><img src="https://stackexchange.com/users/flair/476908.png" width="208" height="58" alt="profile for platzhersh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for platzhersh on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+
 <!--
 **platzhersh/platzhersh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
