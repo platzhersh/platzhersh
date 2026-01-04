@@ -4,8 +4,17 @@ I'm currently working as a development team lead at [Cistec AG](https://www.cist
 
 You might have stumbled onto my profile through my [Pacman Canvas](https://pacman.platzh1rsch.ch/).
 
+### GraphQL Federation
 Technically I'm playing around with a lot of different things atm, especially looking into architecture things, like federated graphs.
 Maybe you'll read some more about this on my [Medium](https://medium.com/@platzh1rsch) someday 🤞.
+
+### BJJ Video Analyzer 🥋
+I am also diving into the world of computer vision and machine learning, building [BJJ Video Analyzer](https://bjj-video-analyzer.com/).
+
+### openEHR for health IT
+Furthermore, I recently started diving deeper into [openEHR](https://openehr.org/) by building [open-cis](https://github.com/platzhersh/open-cis).
+
+### Support ☕
 
 If you found any of my stuff useful and feel generous, feel free to send some coffee. (I do like coffee ☕️)
 
