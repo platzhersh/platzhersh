@@ -14,7 +14,7 @@ Maybe you'll read some more about this on my [Medium](https://medium.com/@platzh
 I am also diving into the world of computer vision and machine learning, building [BJJ Video Analyzer](https://bjj-video-analyzer.com/).
 
 ### openEHR for health IT
-Furthermore, I recently started diving deeper into [openEHR](https://openehr.org/) by building [open-cis](https://github.com/platzhersh/open-cis).
+Recently, I started diving deeper into [openEHR](https://openehr.org/) by building [open-cis](https://github.com/platzhersh/open-cis).
 You can also check my ⭐-list for interesting openEHR repositories: [🏥 openEHR](https://github.com/stars/platzhersh/lists/openehr)
 
 ### Support ☕
