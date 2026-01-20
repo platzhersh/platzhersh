@@ -42,6 +42,7 @@ If you found any of my stuff useful and feel generous, feel free to send some co
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@platzh1rsch)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-glatthard/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/platzh1rsch)
 </br>
 
 <a href="https://stackexchange.com/users/476908"><img src="https://stackexchange.com/users/flair/476908.png" width="208" height="58" alt="profile for platzhersh on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for platzhersh on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
