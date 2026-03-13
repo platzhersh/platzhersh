@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working as a development team lead at [Cistec AG](https://www.cistec.com/).
+I'm currently working as a software engineering team lead at [Cistec AG](https://www.cistec.com/).
 
 ### Pacman Canvas
 
